@@ -1,1 +1,1 @@
-A program to log key strokes into a text file on windows systems
+A program to log key strokes into a text file on windows systems or linux
